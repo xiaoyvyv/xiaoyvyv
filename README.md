@@ -26,7 +26,7 @@
 ### 1. JavaCompile & JavaCompileEngine
 这是两个开源的安卓项目，可以在 Android 平台编译并运行 Java 代码和其封装好的编译框架。
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=JavaCompile&theme=default_repocard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=JavaCompileEngine&theme=default_repocard">
+<img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=JavaCompile&theme=default_repocard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=JavaCompileEngine&theme=default_repocard">
 
 ### 2. LatexToMathML
 这是 Latex 转 Word 格式的公式的 ![网页](https://web.xiaoyv.com.cn/h5/LatexToMathML/index.html)，输入 Latex 然后转换为 MathML，直接粘贴到 Word 文档即可！对写毕业论文的理科小伙伴来说，非常的方便！
