@@ -40,7 +40,7 @@
 </a>
 
 ### 2. LatexToMathML
-这是 Latex 转 Word 格式的公式的 ![网页](https://web.xiaoyv.com.cn/h5/LatexToMathML/index.html)，输入 Latex 然后转换为 MathML，直接粘贴到 Word 文档即可！对写毕业论文的理科小伙伴来说，非常的方便！
+这是 Latex 转 Word 格式的公式的 [演示网页](https://web.xiaoyv.com.cn/h5/LatexToMathML/index.html)，输入 Latex 然后转换为 MathML，直接粘贴到 Word 文档即可！对写毕业论文的理科小伙伴来说，非常的方便！
 
 <a href="https://github.com/xiaoyvyv/LatexToMathML">
   <img width="360px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=LatexToMathML&theme=default_repocard">
