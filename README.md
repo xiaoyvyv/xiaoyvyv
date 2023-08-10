@@ -10,7 +10,7 @@
 ## 技能
 
 - 开发
-  - Java，Kotlin
+  - Android，Java，Kotlin
   - 前端（Vue，小程序）
   - 后端（Spring Boot, MyBatis）
 - 逆向工程
