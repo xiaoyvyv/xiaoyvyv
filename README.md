@@ -53,6 +53,13 @@
   <img width="360px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=CCompileEngine&theme=default_repocard">
 </a>
 
+### 4. CCompileEngine
+A dynamic crawler plug-in for the Android platform based on Dex dynamic loading, which can dynamically load and execute the dex plug-in package, and can realize real-time updates of crawler and other functions.
+
+<a href="https://github.com/xiaoyvyv/AndroidCrawlerEngine">
+  <img width="360px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=AndroidCrawlerEngine&theme=default_repocard">
+</a>
+
 ## 联系方式
 您可以通过以下方式与我联系：
 - 邮箱：whystart@foxmail.com
