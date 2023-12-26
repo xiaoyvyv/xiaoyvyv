@@ -28,7 +28,14 @@
 </a>
 
 ## 项目
-### 1. JavaCompile & JavaCompileEngine
+### 1. Bangumi for Android
+这是一个全功能的 Bangumi.TV 的安卓原生客户端
+
+<a href="https://github.com/xiaoyvyv/Bangumi-for-Android">
+  <img width="360px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=Bangumi-for-Android&theme=default_repocard">
+</a>
+
+### 2. JavaCompile & JavaCompileEngine
 这是两个开源的安卓项目，可以在 Android 平台编译并运行 Java 代码和其封装好的编译框架。
 
 <a href="https://github.com/xiaoyvyv/JavaCompile">
@@ -39,21 +46,21 @@
   <img width="360px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=JavaCompileEngine&theme=default_repocard">
 </a>
 
-### 2. LatexToMathML
+### 3. LatexToMathML
 这是 Latex 转 Word 格式的公式的 [演示网页](https://web.xiaoyv.com.cn/h5/LatexToMathML/index.html)，输入 Latex 然后转换为 MathML，直接粘贴到 Word 文档即可！对写毕业论文的理科小伙伴来说，非常的方便！
 
 <a href="https://github.com/xiaoyvyv/LatexToMathML">
   <img width="360px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=LatexToMathML&theme=default_repocard">
 </a>
 
-### 3. CCompileEngine
+### 4. CCompileEngine
 这是一个开源的安卓项目，可以在 Android 平台编译并运行 C|C++ 代码和其封装好的编译框架，目前仅支持 API28 及以下，暂未适配高版本安卓系统。
 
 <a href="https://github.com/xiaoyvyv/CCompileEngine">
   <img width="360px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoyvyv&repo=CCompileEngine&theme=default_repocard">
 </a>
 
-### 4. AndroidCrawlerEngine
+### 5. AndroidCrawlerEngine
 A dynamic crawler plug-in for the Android platform based on Dex dynamic loading, which can dynamically load and execute the dex plug-in package, and can realize real-time updates of crawler and other functions.
 
 <a href="https://github.com/xiaoyvyv/AndroidCrawlerEngine">
