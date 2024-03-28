@@ -7,6 +7,12 @@
   <img width="360px" src="https://github-readme-stats.vercel.app/api?username=xiaoyvyv&theme=default&count_private=true&show_icons=true"> 
 </a>
 
+### 喜欢的东西
+
+|番剧&游戏  |
+|------|
+|![https://github.com/xiaoyvyv/bangumi-data/raw/main/bgm/card.svg](https://github.com/xiaoyvyv/bangumi-data/raw/main/bgm/card.svg) |
+
 ## 技能
 
 - 开发
