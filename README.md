@@ -11,7 +11,7 @@
 
 |番剧&游戏  |
 |------|
-|![https://github.com/xiaoyvyv/bangumi-data/raw/main/bgm/card.svg](https://github.com/xiaoyvyv/bangumi-data/raw/main/bgm/card.svg) |
+|![https://github.com/xiaoyvyv/bangumi-data/raw/main/data/bgm/card.svg](https://github.com/xiaoyvyv/bangumi-data/raw/main/data/bgm/card.svg) |
 
 ## 技能
 
